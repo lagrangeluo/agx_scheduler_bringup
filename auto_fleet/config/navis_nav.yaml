@@ -1,0 +1,109 @@
+building_name: zhiyuan
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 2
+      - {speed_limit: 0}
+    - - 3
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 3
+      - {speed_limit: 0}
+    - - 4
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 4
+      - {speed_limit: 0}
+    - - 3
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 3
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 6
+      - {speed_limit: 0}
+    - - 7
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 7
+      - {speed_limit: 0}
+    - - 9
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 9
+      - {speed_limit: 0}
+    - - 10
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 10
+      - {speed_limit: 0}
+    vertices:
+    - - 9.281159968005023
+      - -8.550782970522855
+      - {is_charger: true, is_holding_point: true, is_parking_spot: true, name: limo_1,
+        spawn_robot_name: tb3_1, spawn_robot_type: robot_model}
+    - - 8.569965492195857
+      - -8.611063796402005
+      - {is_holding_point: true, name: B}
+    - - 8.823115143497086
+      - -11.045951961921249
+      - {is_holding_point: true, name: C}
+    - - 12.487523435212584
+      - -10.479421529091644
+      - {is_holding_point: true, name: D}
+    - - 12.210271392690094
+      - -8.189147710899956
+      - {is_holding_point: true, name: E}
+    - - 11.90896665459835
+      - -5.621671545837782
+      - {is_holding_point: true, name: F}
+    - - 16.571138944942636
+      - -10.373171922141187
+      - {is_holding_point: true, name: G}
+    - - 16.069784511198886
+      - -7.833690885934948
+      - {is_holding_point: true, name: H, pickup_dispenser: pickup}
+    - - 15.936122903791359
+      - -5.319474634456583
+      - {dropoff_ingestor: dropoff, is_holding_point: true, name: I}
+    - - 7.520194539292997
+      - -7.7366191037643075
+      - {is_charger: true, is_holding_point: true, is_parking_spot: true, name: limo_0,
+        spawn_robot_name: tb3_0, spawn_robot_type: robot_model}
+    - - 8.43374971005674
+      - -7.642694321479398
+      - {is_holding_point: true, name: M}
+    - - 8.25658471066748
+      - -6.188201978667389
+      - {is_holding_point: true, name: A}

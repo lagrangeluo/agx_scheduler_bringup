@@ -1,0 +1,22 @@
+2023-02-23 20:10:16,518 DEBUG Using selector: EpollSelector
+2023-02-23 20:10:16,521 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:17,433 ERROR The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2023-02-23 20:10:18,523 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:20,525 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:22,529 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:24,532 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:26,536 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:28,539 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:30,542 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:32,545 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:34,548 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:36,550 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:38,553 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:40,556 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:42,558 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:44,561 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:46,565 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:48,568 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:50,570 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:52,573 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0
+2023-02-23 20:10:55,083 DEBUG  ROS Time: 0 |  tasks: 0 | active robots: 0

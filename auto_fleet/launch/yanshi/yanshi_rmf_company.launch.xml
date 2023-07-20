@@ -1,0 +1,26 @@
+<?xml version='1.0' ?>
+
+<launch>
+  <arg name="use_sim_time" default="true"/>
+  <arg name="failover_mode" default="false"/>
+
+  <!-- Common launch -->
+  <include file="$(find-pkg-share auto_fleet)/launch/yanshi/rmf_core.launch.xml">
+    <arg name="use_sim_time" value="$(var use_sim_time)"/>
+    <arg name="viz_config_file" value ="$(find-pkg-share auto_fleet)/config/yanshi/yanshi_1.rviz"/>
+    <arg name="config_file" value="$(find-pkg-share auto_fleet)/config/yanshi/yanshi.building.yaml"/>
+
+    <arg name="dashboard_config_file" value="$(find-pkg-share auto_fleet)/config/yanshi/yanshi_1_dashboard.json"/>
+  </include>
+
+  <!-- TinyRobot fleet adapter and robot state aggregator needed for the TinyRobot slotcar_plugin -->
+  <group>
+    <let name="fleet_name" value="agx_fleet"/>
+    <include file="$(find-pkg-share auto_fleet)/launch/yanshi/yanshi_tb3_adapter.launch.xml">
+      <arg name="fleet_name" value="$(var fleet_name)"/>
+      <arg name="use_sim_time" value="$(var use_sim_time)"/>
+      <arg name="nav_graph_file" value="$(find-pkg-share auto_fleet)/config/yanshi/nav.yaml" />
+    </include>
+  </group>
+
+</launch>

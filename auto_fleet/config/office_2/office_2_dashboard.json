@@ -1,0 +1,78 @@
+{
+  "world_name" : "zhiyuan World",  
+  "valid_task": ["Delivery", "Loop", "patrol"],
+  "task": {
+    "Delivery": {
+      "option": {
+        "coke": {
+          "pickup_place_name": "right",
+          "pickup_dispenser": "pickup",
+          "dropoff_place_name": "left",
+          "dropoff_ingestor": "dropoff"
+        }
+      }
+    },
+    "Loop": {
+      "places": [
+        "A",
+        "B",
+        "b",
+        "a",
+        "right",
+        "parking_1",
+        "left",
+        "top",
+        "C",
+        "down",
+        "lobby",
+        "qiantai",
+        "dandan",
+        "waiting",
+        "c",
+        "far_away",
+        "wait_lift_0",
+        "lift_0",
+        "lift_test",
+        "L2_test_2",
+        "L2_test_1",
+        "L2_out",
+        "center_L2"
+     
+      ]
+    },
+    "Clean": {
+    },
+    "Station": {
+    },
+    "Patrol": {      
+      "places": [
+        "A",
+        "B",
+        "b",
+        "a",
+        "right",
+        "parking_1",
+        "left",
+        "top",
+        "C",
+        "down",
+        "lobby",
+        "qiantai",
+        "dandan",
+        "waiting",
+        "c",
+        "far_away",
+        "wait_lift_0",
+        "lift_0",
+        "lift_test",
+        "L2_test_2",
+        "L2_test_1",
+        "L2_out",
+        "center_L2"
+     
+      ]
+    },
+    "Charging": {
+    }
+  }
+}

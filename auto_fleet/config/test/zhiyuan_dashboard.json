@@ -1,0 +1,40 @@
+{
+  "world_name" : "zhiyuan World",  
+  "valid_task": ["Delivery", "Loop"],
+  "task": {
+    "Delivery": {
+      "option": {
+        "coke": {
+          "pickup_place_name": "H",
+          "pickup_dispenser": "pickup",
+          "dropoff_place_name": "I",
+          "dropoff_ingestor": "dropoff"
+        }
+      }
+    },
+    "Loop": {
+      "places": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "M",
+        "limo_0",
+        "limo_1"
+      ]
+    },
+    "Clean": {
+    },
+    "Station": {
+    },
+    "Patrol": {
+    },
+    "Charging": {
+    }
+  }
+}

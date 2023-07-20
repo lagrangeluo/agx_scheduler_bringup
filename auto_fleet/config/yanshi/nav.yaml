@@ -1,0 +1,35 @@
+building_name: yanshi
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 2
+      - {speed_limit: 0}
+    vertices:
+    - - 8.750
+      - -4.100
+      - {is_holding_point: true, name: p_4, pickup_dispenser: pickup}
+    - - 8.864999999953877
+      - -4.558549999976282
+      - {is_holding_point: true, name: p_3}
+    - - 8.851699999953945
+      - -5.602549999970851
+      - {dropoff_ingestor: dropoff, is_holding_point: true, name: p_2}
+    - - 8.884949999953774
+      - -6.752949999964865
+      - {is_charger: true, is_holding_point: true, name: p_1}

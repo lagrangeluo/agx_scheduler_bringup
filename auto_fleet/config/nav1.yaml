@@ -1,0 +1,55 @@
+building_name: sky_worth
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {}
+    - - 1
+      - 0
+      - {}
+    - - 1
+      - 2
+      - {}
+    - - 2
+      - 1
+      - {}
+    - - 1
+      - 3
+      - {}
+    - - 3
+      - 1
+      - {}
+    - - 4
+      - 0
+      - {}
+    - - 0
+      - 4
+      - {}
+    - - 0
+      - 5
+      - {}
+    - - 5
+      - 0
+      - {}
+    vertices:
+    - - 16.843535607309892
+      - -10.145210265704467
+      - {is_holding_point: true, is_parking_spot: false, name: A}
+    - - 14.736255737865635
+      - -11.370089194943805
+      - {is_holding_point: true, name: M}
+    - - 16.790823603740634
+      - -15.729481915176317
+      - {is_holding_point: true, name: C}
+    - - 11.996831916698966
+      - -12.673936106759859
+      - {is_charger: true, is_holding_point: true, is_parking_spot: true, name: B,
+        spawn_robot_name: tb3_1, spawn_robot_type: robot_model}
+    - - 15.715628760538097
+      - -8.60200884811757
+      - {is_holding_point: true, name: luo}
+    - - 17.367604948298748
+      - -10.755899331723638
+      - {is_charger: true, is_holding_point: true, is_parking_spot: true, name: tb3_0,
+        spawn_robot_name: tb3_0, spawn_robot_type: robot_model}
