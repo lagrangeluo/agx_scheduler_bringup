@@ -1,0 +1,13 @@
+[Unit]
+Description=agx_scheduler(Copyright 2023 Agilex Robotics)
+After=network.target
+
+[Service]
+ExecStart=/home/agilex/ff_ros2_ws/src/agx_scheduler_bringup/agx_scheduler_bringup/start/start.sh
+User=root
+Group=root
+Restart=no
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,150 @@
+- operation: Add
+  participant_description:
+    name: tb3_0
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_6
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_4
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_8
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_9
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_1
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_3
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_2
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_5
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4
+- operation: Add
+  participant_description:
+    name: tb3_7
+    group: agx_fleet
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.4
+        - 0.4

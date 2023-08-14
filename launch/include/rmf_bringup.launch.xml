@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+
+<launch>
+  <arg name="use_sim_time" default="false"/>
+  <arg name="config_file_name"  default="$(find-pkg-share agx_scheduler_bringup)/config/office_2" />
+
+  <!-- Common launch -->
+  <include file="$(find-pkg-share agx_scheduler_bringup)/launch/include/rmf_core.launch.xml">
+    <arg name="use_sim_time" value="$(var use_sim_time)"/>
+    <arg name="viz_config_file" value ="$(var config_file_name)/default.rviz"/>
+    <arg name="config_file" value="$(var config_file_name)/rmf.building.yaml"/>
+    <arg name="dashboard_config_file" value="$(var config_file_name)/dashboard.json"/>
+  </include>
+
+  <!-- fleet adapter -->
+  <group>
+    <let name="fleet_name" value="agx_fleet"/>
+    <include file="$(find-pkg-share agx_scheduler_bringup)/launch/include/adapter.launch.xml">
+      <arg name="fleet_name" value="$(var fleet_name)"/>
+      <arg name="use_sim_time" value="$(var use_sim_time)"/>
+      <arg name="nav_graph_file" value="$(var config_file_name)/nav.yaml" />
+    </include>
+  </group>
+</launch>
