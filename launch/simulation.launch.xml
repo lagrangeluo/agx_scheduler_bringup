@@ -15,7 +15,7 @@
     <param name="mode_request_topic" value="robot_mode_requests"/>
     <param name="path_request_topic" value="robot_path_requests"/>
     <param name="destination_request_topic" value="robot_destination_requests"/>
-    <param name="nav_map_path" value="$(var config_file_name)/map.yaml"/>
+    <param name="nav_map_path" value="$(var config_file_name)/nav/0.yaml"/>
     <param name="dds_domain" value="42"/>
     <param name="dds_robot_state_topic" value="robot_state"/>
     <param name="dds_mode_request_topic" value="mode_request"/>

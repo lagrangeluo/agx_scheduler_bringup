@@ -1,0 +1,797 @@
+building_name: office_2
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 0
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 0
+      - {speed_limit: 0}
+    - - 4
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 4
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 6
+      - {speed_limit: 0}
+    - - 7
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 7
+      - {speed_limit: 0}
+    - - 1
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 1
+      - {speed_limit: 0}
+    - - 6
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 6
+      - {speed_limit: 0}
+    - - 9
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 9
+      - {speed_limit: 0}
+    - - 10
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 10
+      - {speed_limit: 0}
+    - - 11
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 11
+      - {speed_limit: 0}
+    - - 8
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 8
+      - {speed_limit: 0}
+    - - 10
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 10
+      - {speed_limit: 0}
+    - - 16
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 16
+      - {speed_limit: 0}
+    - - 10
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 10
+      - {speed_limit: 0}
+    - - 19
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 19
+      - {speed_limit: 0}
+    - - 20
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 20
+      - {speed_limit: 0}
+    - - 13
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 13
+      - {speed_limit: 0}
+    - - 22
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 22
+      - {speed_limit: 0}
+    - - 25
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 25
+      - {speed_limit: 0}
+    - - 26
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 26
+      - {speed_limit: 0}
+    - - 29
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 29
+      - {speed_limit: 0}
+    - - 30
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 30
+      - {speed_limit: 0}
+    - - 28
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 28
+      - {speed_limit: 0}
+    - - 31
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 31
+      - {speed_limit: 0}
+    - - 32
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 32
+      - {speed_limit: 0}
+    - - 33
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 33
+      - {speed_limit: 0}
+    - - 34
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 34
+      - {speed_limit: 0}
+    - - 36
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 36
+      - {speed_limit: 0}
+    - - 38
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 38
+      - {speed_limit: 0}
+    - - 39
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 39
+      - {speed_limit: 0}
+    - - 40
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 40
+      - {speed_limit: 0}
+    - - 42
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 42
+      - {speed_limit: 0}
+    - - 43
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 43
+      - {speed_limit: 0}
+    - - 44
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 44
+      - {speed_limit: 0}
+    - - 27
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 27
+      - {speed_limit: 0}
+    - - 41
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 41
+      - {speed_limit: 0}
+    - - 46
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 46
+      - {speed_limit: 0}
+    - - 47
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 47
+      - {speed_limit: 0}
+    - - 46
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 46
+      - {speed_limit: 0}
+    - - 23
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 23
+      - {speed_limit: 0}
+    - - 48
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 48
+      - {speed_limit: 0}
+    - - 23
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 23
+      - {speed_limit: 0}
+    - - 25
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 25
+      - {speed_limit: 0}
+    - - 51
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 51
+      - {speed_limit: 0}
+    - - 52
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 52
+      - {speed_limit: 0}
+    - - 53
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 53
+      - {speed_limit: 0}
+    - - 54
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 54
+      - {speed_limit: 0}
+    - - 32
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 32
+      - {speed_limit: 0}
+    - - 34
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 34
+      - {speed_limit: 0}
+    - - 41
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 41
+      - {speed_limit: 0}
+    - - 29
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 29
+      - {speed_limit: 0}
+    - - 7
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 7
+      - {speed_limit: 0}
+    - - 55
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 55
+      - {speed_limit: 0}
+    - - 6
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 6
+      - {speed_limit: 0}
+    - - 58
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 58
+      - {speed_limit: 0}
+    - - 59
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 59
+      - {speed_limit: 0}
+    - - 58
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 58
+      - {speed_limit: 0}
+    - - 53
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 53
+      - {speed_limit: 0}
+    - - 48
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 48
+      - {speed_limit: 0}
+    - - 63
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 63
+      - {speed_limit: 0}
+    - - 64
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 64
+      - {speed_limit: 0}
+    - - 16
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 16
+      - {speed_limit: 0}
+    vertices:
+    - - 49.531374439019125
+      - -17.975058451406714
+      - {is_holding_point: true, name: A}
+    - - 49.53087424538565
+      - -21.941643984253826
+      - {is_holding_point: true, name: B}
+    - - 50.88334781094791
+      - -21.92848889169334
+      - {is_holding_point: true, name: b}
+    - - 50.528810563538414
+      - -17.97610885803702
+      - {is_holding_point: true, name: a}
+    - - 49.53087424538565
+      - -14.115664414214026
+      - {is_holding_point: true, name: right, pickup_dispenser: ture}
+    - - 51.82891385567548
+      - -14.123367396169591
+      - {is_charger: true, is_holding_point: true, is_parking_spot: true, name: parking_1}
+    - - 47.182215039387785
+      - -14.123367396169591
+      - {dropoff_ingestor: ture, is_holding_point: true, name: left}
+    - - 48.34516523722508
+      - -12.017652237952195
+      - {is_holding_point: true, name: top}
+    - - 49.56983932943361
+      - -25.811792184566297
+      - {is_holding_point: true, name: C}
+    - - 47.18281527174796
+      - -15.285117129286538
+      - {is_holding_point: true, name: down}
+    - - 38.38585982039987
+      - -15.360296232398342
+      - {is_holding_point: true, name: lobby}
+    - - 35.66480645427735
+      - -15.439626942668019
+      - {is_holding_point: true, name: qiantai}
+    - - 35.649600567819604
+      - -14.315741867605388
+      - {is_holding_point: true, name: dandan}
+    - - 31.876740029218677
+      - -15.798966048958908
+      - {is_holding_point: true, name: waiting}
+    - - 50.8059678558488
+      - -25.80383910579399
+      - {is_holding_point: true, name: c}
+    - - 50.14386154321343
+      - -48.70540469205623
+      - {is_holding_point: true, name: far_away}
+    - - 38.358549248011954
+      - -21.56949992094589
+      - {is_holding_point: true, name: wait_lift_0}
+    - - 40.315606858359565
+      - -21.608364966267164
+      - {is_holding_point: false, is_passthrough_point: true, lift: lift_0, lift_cabin: lift_0,
+        name: lift_0}
+    - - 38.36485168779378
+      - -14.255518554134587
+      - {is_holding_point: false, is_passthrough_point: true, lift: lift_test, lift_cabin: lift_test,
+        name: lift_test}
+    - - 48.518782447405435
+      - -15.305925184439241
+      - {is_passthrough_point: true, lift: lift_test_1, lift_cabin: lift_test_1, name: lift_test_1}
+    - - 49.563486870288436
+      - -15.30057311256102
+      - {name: ''}
+    - - 31.75744384763408
+      - -18.068844757683916
+      - {is_holding_point: true, name: ware_house}
+    - - 24.457017728290037
+      - -16.783747274551192
+      - {name: meeting_center}
+    - - 24.2170248229471
+      - -14.503614596339876
+      - {is_holding_point: true, name: meeting_1}
+    - - 24.67070044851201
+      - -19.74419331365649
+      - {is_holding_point: true, is_parking_spot: false, name: meeting_2}
+    - - 19.770203382597366
+      - -17.28043955259525
+      - {is_holding_point: true, name: start_left}
+    - - 16.737129227911005
+      - -17.653984158076923
+      - {name: start_1}
+    - - 16.997429994773167
+      - -19.931265732577415
+      - {name: start_4}
+    - - 14.828590400010798
+      - -15.181477008429813
+      - {name: start_2}
+    - - 14.047788138151004
+      - -18.044385289006822
+      - {name: start_3}
+    - - 12.638042401555465
+      - -17.068407471363752
+      - {name: start_5}
+    - - 14.459847653410515
+      - -12.622286302100894
+      - {name: start_6}
+    - - 16.0214521771301
+      - -9.694352849171693
+      - {name: start_7}
+    - - 12.572967209839923
+      - -10.345004727600404
+      - {name: start_8}
+    - - 12.768192784986544
+      - -11.667966868787442
+      - {name: start_9}
+    - - 9.86191771638696
+      - -12.015001211694761
+      - {name: start_10}
+    - - 10.317394039032397
+      - -16.070721250027727
+      - {name: start_13}
+    - - 8.64739755493804
+      - -16.179163229765845
+      - {name: start_14}
+    - - 10.599353190224175
+      - -17.9359433092687
+      - {name: start_15}
+    - - 9.232974241651211
+      - -18.868504319525844
+      - {name: start_16}
+    - - 9.623375372581107
+      - -21.36266985350257
+      - {name: start_17}
+    - - 11.358447048391003
+      - -21.145785894026332
+      - {name: start_18}
+    - - 11.770506563650514
+      - -24.52919566960097
+      - {name: start_21}
+    - - 14.156230117889123
+      - -24.16050294236404
+      - {name: start_22}
+    - - 13.614020219198531
+      - -20.495134015597625
+      - {name: start_23}
+    - - 17.322705914624176
+      - -22.3603560748386
+      - {name: start_24}
+    - - 11.575331007867241
+      - -22.77241559009811
+      - {name: start_20}
+    - - 9.86191771638696
+      - -23.03266633759693
+      - {name: start_19}
+    - - 23.77850506447658
+      - -11.185580128660867
+      - {name: meeting_14}
+    - - 26.204294128756807
+      - -10.831843191064937
+      - {name: meeting_12}
+    - - 26.743352807556484
+      - -13.998869200796818
+      - {name: meeting_11}
+    - - 19.51280373880938
+      - -14.579193854358465
+      - {name: room_1}
+    - - 21.519080402691266
+      - -14.295684102902904
+      - {name: room_2}
+    - - 20.952110919143493
+      - -9.846961926745955
+      - {name: room_3}
+    - - 18.9239757934786
+      - -10.108663235781858
+      - {name: room_4}
+    - - 48.518182215045265
+      - -10.115165753017077
+      - {name: top_1}
+    - - 50.5140548513508
+      - -10.135123478992865
+      - {name: top_2}
+    - - 48.518182215045265
+      - -8.019454467469249
+      - {name: top_3}
+    - - 44.25763288380289
+      - -13.27263806434952
+      - {name: sale_1}
+    - - 41.596402676244374
+      - -13.230071586140507
+      - {name: sale_2}
+    - - 40.872572469237774
+      - -11.207588648533916
+      - {name: sale_4}
+    - - 44.278891113225725
+      - -10.930781491766966
+      - {name: sale_3}
+    - - 24.939754603960047
+      - -8.93976073370617
+      - {name: meeting_13}
+    - - 8.45217197979142
+      - -14.205499190786746
+      - {name: start_12}
+    - - 9.900082490621362
+      - -13.330160332199535
+      - {name: start_11}
+    - - 38.347194852532
+      - -24.2193257136611
+      - {name: ''}
+  L2:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 3
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 3
+      - {speed_limit: 0}
+    - - 5
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 5
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 6
+      - {speed_limit: 0}
+    - - 7
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 7
+      - {speed_limit: 0}
+    - - 6
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 6
+      - {speed_limit: 0}
+    - - 9
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 9
+      - {speed_limit: 0}
+    - - 4
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 4
+      - {speed_limit: 0}
+    - - 11
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 11
+      - {speed_limit: 0}
+    - - 13
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 13
+      - {speed_limit: 0}
+    vertices:
+    - - 40.35747395943586
+      - -21.621290251154708
+      - {is_holding_point: false, is_passthrough_point: true, lift: lift_0, lift_cabin: lift_0,
+        name: ''}
+    - - 38.52988548228296
+      - -21.64279677066015
+      - {is_holding_point: true, name: L2_out}
+    - - 38.53228505915759
+      - -18.839651495560588
+      - {is_holding_point: true, name: L2_test_1}
+    - - 38.367242672740716
+      - -14.290126774785168
+      - {is_passthrough_point: true, lift: lift_test, lift_cabin: lift_test, name: ''}
+    - - 38.36953960326275
+      - -15.496450590552671
+      - {is_holding_point: true, name: L2_test_2}
+    - - 48.51274770905676
+      - -15.280685810301982
+      - {lift: lift_test_1, lift_cabin: lift_test_1, name: ''}
+    - - 49.45147148802126
+      - -15.266392499059712
+      - {name: ''}
+    - - 49.447730238734415
+      - -14.043443719858756
+      - {name: ''}
+    - - 48.32132309456103
+      - -13.264066245940223
+      - {is_charger: true, is_holding_point: true, name: center_L2}
+    - - 49.54496707771015
+      - -18.17223209461246
+      - {is_holding_point: true, name: A_L2}
+    - - 49.605550425131405
+      - -21.834001203695195
+      - {is_holding_point: true, name: B_L2}
+    - - 36.44377814454491
+      - -15.48815262100934
+      - {name: ''}
+    - - 36.45169506660855
+      - -14.138464119002231
+      - {name: ''}
+    - - 34.60773514487634
+      - -15.49871884468657
+      - {name: ''}
+    - - 34.61520048943795
+      - -14.070561843740986
+      - {name: ''}
+  L3:
+    lanes: []
+    vertices: []
